@@ -1,0 +1,6 @@
+{
+  "name": "qarsildoq.ai",
+  "description": "Qarsildoq AI — interaktiv 3D ovozli va matnli aqlli yordamchi sayti.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

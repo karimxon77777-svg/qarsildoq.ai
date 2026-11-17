@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14141c" />
+      <stop offset="100%" stop-color="#09090d" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="50%" stop-color="#eab308" />
+      <stop offset="100%" stop-color="#ca8a04" />
+    </linearGradient>
+    <linearGradient id="crimson" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="100%" stop-color="#b91c1c" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <rect x="136" y="72" width="240" height="106" rx="18" fill="#18181f" stroke="url(#gold)" stroke-width="8" />
+  <rect x="116" y="164" width="280" height="22" rx="11" fill="url(#gold)" />
+  <circle cx="256" cy="118" r="22" fill="url(#crimson)" stroke="url(#gold)" stroke-width="6" />
+  <rect x="164" y="186" width="184" height="154" rx="44" fill="#f5c6a5" />
+  <circle cx="212" cy="240" r="14" fill="#111827" />
+  <circle cx="300" cy="240" r="14" fill="#111827" />
+  <circle cx="216" cy="236" r="4" fill="#ffffff" />
+  <circle cx="304" cy="236" r="4" fill="#ffffff" />
+  <polygon points="256,238 242,270 270,270" fill="#ea580c" />
+  <path d="M180 284 Q220 264 256 282 Q292 264 332 284 Q296 300 256 290 Q216 300 180 284 Z" fill="#ffffff" />
+  <rect x="206" y="298" width="100" height="32" rx="8" fill="#1f2937" />
+  <rect x="214" y="302" width="84" height="9" rx="3" fill="#ffffff" />
+  <rect x="214" y="317" width="84" height="9" rx="3" fill="#ffffff" />
+  <path d="M126 358 C126 340 386 340 386 358 L404 448 C404 458 108 458 108 448 Z" fill="url(#crimson)" />
+  <rect x="122" y="346" width="54" height="24" rx="10" fill="url(#gold)" />
+  <rect x="336" y="346" width="54" height="24" rx="10" fill="url(#gold)" />
+  <circle cx="232" cy="398" r="10" fill="url(#gold)" />
+  <circle cx="280" cy="398" r="10" fill="url(#gold)" />
+</svg>
